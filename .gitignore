@@ -1,0 +1,11 @@
+# envs & caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# training outputs — never commit weights/checkpoints
+outputs/
+checkpoints/
+*.safetensors
+wandb/
