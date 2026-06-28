@@ -1,0 +1,5225 @@
+[
+  {
+    "numbers": [
+      6,
+      2,
+      3,
+      16
+    ],
+    "target": 5,
+    "solution_expr": "(((16 - 3) - 6) - 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      14,
+      19,
+      18
+    ],
+    "target": 518,
+    "solution_expr": "(((1 * 19) + 18) * 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      21,
+      14,
+      2
+    ],
+    "target": 33,
+    "solution_expr": "(((21 * 11) * 2) / 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      12,
+      4,
+      7
+    ],
+    "target": 22,
+    "solution_expr": "(((12 * 7) / 4) + 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      5,
+      14
+    ],
+    "target": 42,
+    "solution_expr": "((15 / 5) * 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      7
+    ],
+    "target": 224,
+    "solution_expr": "((4 * 7) * 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      10,
+      18
+    ],
+    "target": 14,
+    "solution_expr": "((18 + 10) / 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      25,
+      6,
+      8
+    ],
+    "target": 73,
+    "solution_expr": "(((15 * 6) - 25) + 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      4,
+      17,
+      8
+    ],
+    "target": 121,
+    "solution_expr": "(((8 * 17) - 4) - 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      17,
+      4
+    ],
+    "target": 6,
+    "solution_expr": "((17 + 4) - 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      13,
+      5,
+      14
+    ],
+    "target": 544,
+    "solution_expr": "(((5 + 13) + 14) * 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      10,
+      23,
+      13
+    ],
+    "target": 828,
+    "solution_expr": "(((23 + 10) + 13) * 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      17,
+      12,
+      6
+    ],
+    "target": 110,
+    "solution_expr": "(((17 * 6) + 20) - 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      12,
+      9
+    ],
+    "target": 121,
+    "solution_expr": "((9 * 12) + 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      9,
+      3,
+      5
+    ],
+    "target": 81,
+    "solution_expr": "(((5 + 9) * 6) - 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      21,
+      9
+    ],
+    "target": 12,
+    "solution_expr": "((24 + 9) - 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      22,
+      20,
+      15
+    ],
+    "target": 625,
+    "solution_expr": "(((22 + 20) * 15) - 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      23,
+      17
+    ],
+    "target": 346,
+    "solution_expr": "((17 * 19) + 23)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      17,
+      6
+    ],
+    "target": 10,
+    "solution_expr": "((17 + 6) - 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      14,
+      15
+    ],
+    "target": 374,
+    "solution_expr": "((15 * 24) + 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      24,
+      19
+    ],
+    "target": 774,
+    "solution_expr": "((24 + 19) * 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      16,
+      8,
+      11
+    ],
+    "target": 50,
+    "solution_expr": "(((14 + 11) * 16) / 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      16,
+      9
+    ],
+    "target": 187,
+    "solution_expr": "((9 * 19) + 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      5,
+      11,
+      25
+    ],
+    "target": 250,
+    "solution_expr": "(((20 * 11) + 25) + 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      3,
+      23
+    ],
+    "target": 78,
+    "solution_expr": "((23 * 3) + 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      11,
+      9,
+      10
+    ],
+    "target": 10,
+    "solution_expr": "(((11 + 18) - 9) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      4,
+      12
+    ],
+    "target": 144,
+    "solution_expr": "((12 + 24) * 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      4,
+      2,
+      1
+    ],
+    "target": 25,
+    "solution_expr": "(((4 / 1) + 19) + 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      13,
+      12
+    ],
+    "target": 164,
+    "solution_expr": "((13 * 12) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      4,
+      1,
+      11
+    ],
+    "target": 33,
+    "solution_expr": "(((4 / 1) + 18) + 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      16,
+      13
+    ],
+    "target": 250,
+    "solution_expr": "((18 * 13) + 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      20,
+      7,
+      24
+    ],
+    "target": 15,
+    "solution_expr": "(((7 + 24) - 20) + 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      15,
+      23,
+      6
+    ],
+    "target": 47,
+    "solution_expr": "(((15 * 6) - 20) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      25,
+      9,
+      20
+    ],
+    "target": 699,
+    "solution_expr": "(((25 + 9) * 20) + 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      6,
+      11
+    ],
+    "target": 39,
+    "solution_expr": "((22 + 6) + 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      17,
+      8,
+      9
+    ],
+    "target": 252,
+    "solution_expr": "(((19 - 8) + 17) * 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      9,
+      17,
+      2
+    ],
+    "target": 234,
+    "solution_expr": "(((17 + 9) / 2) * 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      12,
+      14
+    ],
+    "target": 490,
+    "solution_expr": "((23 + 12) * 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      16,
+      18
+    ],
+    "target": 13,
+    "solution_expr": "((16 - 18) + 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      21,
+      8
+    ],
+    "target": 27,
+    "solution_expr": "((8 * 6) - 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      7,
+      15
+    ],
+    "target": 42,
+    "solution_expr": "((21 - 15) * 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      12,
+      6
+    ],
+    "target": 8,
+    "solution_expr": "((6 + 14) - 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      23,
+      21
+    ],
+    "target": 567,
+    "solution_expr": "((4 + 23) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      7,
+      17
+    ],
+    "target": 24,
+    "solution_expr": "((7 + 17) / 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      17,
+      3
+    ],
+    "target": 280,
+    "solution_expr": "((17 - 3) * 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      21,
+      6,
+      2
+    ],
+    "target": 145,
+    "solution_expr": "(((2 + 6) * 21) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      15,
+      23,
+      25
+    ],
+    "target": 32,
+    "solution_expr": "(((23 + 25) - 15) - 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      13,
+      3,
+      23
+    ],
+    "target": 280,
+    "solution_expr": "(((13 * 20) - 3) + 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      7,
+      5
+    ],
+    "target": 17,
+    "solution_expr": "((5 - 7) + 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      4,
+      7
+    ],
+    "target": 34,
+    "solution_expr": "((4 + 7) + 23)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      17,
+      8
+    ],
+    "target": 11,
+    "solution_expr": "((17 + 2) - 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      20,
+      4
+    ],
+    "target": 16,
+    "solution_expr": "((20 - 8) + 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      4,
+      13
+    ],
+    "target": 35,
+    "solution_expr": "((3 * 13) - 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      24,
+      20
+    ],
+    "target": 384,
+    "solution_expr": "((20 * 18) + 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      19,
+      9,
+      14
+    ],
+    "target": 186,
+    "solution_expr": "(((19 * 11) - 9) - 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      3,
+      13,
+      15
+    ],
+    "target": 25,
+    "solution_expr": "(((15 - 3) + 13) * 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      14,
+      18,
+      23
+    ],
+    "target": 210,
+    "solution_expr": "(((14 * 18) - 19) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      4,
+      8
+    ],
+    "target": 14,
+    "solution_expr": "((2 + 4) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      24,
+      18,
+      23
+    ],
+    "target": 44,
+    "solution_expr": "(((24 + 25) + 18) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      25,
+      14
+    ],
+    "target": 600,
+    "solution_expr": "((10 + 14) * 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      22,
+      10,
+      17
+    ],
+    "target": 4,
+    "solution_expr": "(((19 - 10) + 17) - 22)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      3,
+      5
+    ],
+    "target": 285,
+    "solution_expr": "((3 * 5) * 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      23,
+      14,
+      11
+    ],
+    "target": 66,
+    "solution_expr": "(((11 + 23) + 18) + 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      6,
+      7
+    ],
+    "target": 23,
+    "solution_expr": "((22 - 6) + 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      6,
+      12,
+      19
+    ],
+    "target": 158,
+    "solution_expr": "(((19 - 6) * 12) + 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      16,
+      18
+    ],
+    "target": 20,
+    "solution_expr": "((18 - 14) + 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      3,
+      23,
+      20
+    ],
+    "target": 114,
+    "solution_expr": "(((23 * 3) + 25) + 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      12,
+      14,
+      21
+    ],
+    "target": 285,
+    "solution_expr": "(((14 * 21) - 12) + 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      18,
+      8
+    ],
+    "target": 280,
+    "solution_expr": "((18 * 16) - 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      7,
+      9
+    ],
+    "target": 252,
+    "solution_expr": "((4 * 7) * 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      3,
+      2,
+      18
+    ],
+    "target": 1,
+    "solution_expr": "(((2 - 18) + 14) + 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      13,
+      25
+    ],
+    "target": 1,
+    "solution_expr": "((2 * 13) - 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      24,
+      20,
+      8
+    ],
+    "target": 340,
+    "solution_expr": "(((8 + 24) * 10) + 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      20,
+      14
+    ],
+    "target": 11,
+    "solution_expr": "((20 - 23) + 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      23,
+      3
+    ],
+    "target": 102,
+    "solution_expr": "((11 + 23) * 3)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      13,
+      21
+    ],
+    "target": 29,
+    "solution_expr": "((21 - 5) + 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      24,
+      25
+    ],
+    "target": 7,
+    "solution_expr": "((8 - 25) + 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      18,
+      11
+    ],
+    "target": 5,
+    "solution_expr": "((11 + 12) - 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      15,
+      20
+    ],
+    "target": 235,
+    "solution_expr": "((20 * 11) + 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      21,
+      12
+    ],
+    "target": 588,
+    "solution_expr": "((12 + 16) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      19,
+      23,
+      13
+    ],
+    "target": 466,
+    "solution_expr": "(((19 * 24) - 13) + 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      17,
+      21,
+      14
+    ],
+    "target": 277,
+    "solution_expr": "((21 * 14) - 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      9,
+      7
+    ],
+    "target": 315,
+    "solution_expr": "((9 * 5) * 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      5,
+      22
+    ],
+    "target": 660,
+    "solution_expr": "((22 * 5) * 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      4,
+      5,
+      6
+    ],
+    "target": 17,
+    "solution_expr": "(((20 + 6) - 5) - 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      10,
+      15
+    ],
+    "target": 3,
+    "solution_expr": "((15 + 10) - 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      12,
+      18,
+      15
+    ],
+    "target": 52,
+    "solution_expr": "(((12 + 15) + 18) + 7)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      8,
+      19
+    ],
+    "target": 110,
+    "solution_expr": "((19 - 8) * 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      11,
+      8
+    ],
+    "target": 92,
+    "solution_expr": "((11 * 8) + 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      18,
+      9
+    ],
+    "target": 15,
+    "solution_expr": "(((9 * 4) - 18) - 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      8,
+      17,
+      23
+    ],
+    "target": 10,
+    "solution_expr": "(((8 - 17) + 23) - 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      15,
+      20,
+      25
+    ],
+    "target": 44,
+    "solution_expr": "(((25 + 24) + 15) - 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      24,
+      22,
+      9
+    ],
+    "target": 40,
+    "solution_expr": "(((22 + 24) - 9) + 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      9,
+      12
+    ],
+    "target": 177,
+    "solution_expr": "((21 * 9) - 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      7,
+      13,
+      17
+    ],
+    "target": 15,
+    "solution_expr": "(((7 - 17) + 12) + 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      9,
+      5,
+      24
+    ],
+    "target": 648,
+    "solution_expr": "(((23 - 5) + 9) * 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      16,
+      19,
+      25
+    ],
+    "target": 34,
+    "solution_expr": "(((25 - 16) + 6) + 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      20,
+      13
+    ],
+    "target": 28,
+    "solution_expr": "((13 - 5) + 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      12,
+      16
+    ],
+    "target": 4,
+    "solution_expr": "((3 * 16) / 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      11,
+      1
+    ],
+    "target": 9,
+    "solution_expr": "((11 - 2) / 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      16,
+      24
+    ],
+    "target": 168,
+    "solution_expr": "((9 * 16) + 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      3,
+      2
+    ],
+    "target": 16,
+    "solution_expr": "((17 - 3) + 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      23,
+      6,
+      14
+    ],
+    "target": 356,
+    "solution_expr": "(((2 + 23) * 14) + 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      25,
+      7
+    ],
+    "target": 55,
+    "solution_expr": "((23 + 25) + 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      13,
+      8,
+      9
+    ],
+    "target": 51,
+    "solution_expr": "(((21 + 13) + 8) + 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      1,
+      22
+    ],
+    "target": 32,
+    "solution_expr": "((11 - 1) + 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      1,
+      5
+    ],
+    "target": 95,
+    "solution_expr": "((19 / 1) * 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      25,
+      22
+    ],
+    "target": 222,
+    "solution_expr": "((8 * 25) + 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      22,
+      17
+    ],
+    "target": 46,
+    "solution_expr": "((7 + 22) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      1,
+      2
+    ],
+    "target": 12,
+    "solution_expr": "((2 / 1) + 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      7,
+      21
+    ],
+    "target": 132,
+    "solution_expr": "((7 * 21) - 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      10,
+      1
+    ],
+    "target": 2,
+    "solution_expr": "(((10 / 1) - 4) / 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      10,
+      12
+    ],
+    "target": 9,
+    "solution_expr": "((12 - 10) + 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      1,
+      20,
+      2
+    ],
+    "target": 40,
+    "solution_expr": "(((20 + 21) + 1) - 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      6,
+      21
+    ],
+    "target": 174,
+    "solution_expr": "((8 + 21) * 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      23,
+      11
+    ],
+    "target": 16,
+    "solution_expr": "((23 - 11) + 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      17,
+      24
+    ],
+    "target": 400,
+    "solution_expr": "((17 * 24) - 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      10,
+      3,
+      25
+    ],
+    "target": 51,
+    "solution_expr": "(((13 + 3) + 25) + 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      12,
+      5
+    ],
+    "target": 357,
+    "solution_expr": "((12 + 5) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      22,
+      1,
+      14
+    ],
+    "target": 288,
+    "solution_expr": "(((14 / 1) * 19) + 22)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      9,
+      10
+    ],
+    "target": 21,
+    "solution_expr": "((22 + 9) - 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      5,
+      16
+    ],
+    "target": 116,
+    "solution_expr": "((5 * 20) + 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      21,
+      20
+    ],
+    "target": 37,
+    "solution_expr": "((21 + 20) - 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      3,
+      1,
+      20
+    ],
+    "target": 720,
+    "solution_expr": "(((12 * 20) * 1) * 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      4,
+      24
+    ],
+    "target": 476,
+    "solution_expr": "((20 * 24) - 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      22,
+      21
+    ],
+    "target": 4,
+    "solution_expr": "((21 + 5) - 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      21,
+      12,
+      23
+    ],
+    "target": 144,
+    "solution_expr": "(((21 - 23) + 14) * 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      19,
+      18
+    ],
+    "target": 12,
+    "solution_expr": "((19 + 18) - 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      6,
+      10,
+      7
+    ],
+    "target": 320,
+    "solution_expr": "(((6 + 7) + 19) * 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      21,
+      10
+    ],
+    "target": 630,
+    "solution_expr": "((10 + 20) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      22,
+      11
+    ],
+    "target": 99,
+    "solution_expr": "((7 * 11) + 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      1,
+      5
+    ],
+    "target": 8,
+    "solution_expr": "((3 + 5) * 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      13,
+      7,
+      4
+    ],
+    "target": 49,
+    "solution_expr": "(((7 + 25) + 13) + 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      17,
+      9,
+      3
+    ],
+    "target": 24,
+    "solution_expr": "(((17 + 9) - 18) * 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      16,
+      12
+    ],
+    "target": 32,
+    "solution_expr": "((12 - 10) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      17,
+      25,
+      11
+    ],
+    "target": 14,
+    "solution_expr": "(((11 - 5) + 25) - 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      4,
+      9,
+      12
+    ],
+    "target": 804,
+    "solution_expr": "(((19 * 4) - 9) * 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      13,
+      17
+    ],
+    "target": 342,
+    "solution_expr": "((25 * 13) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      12,
+      14
+    ],
+    "target": 72,
+    "solution_expr": "((6 * 14) - 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      2,
+      19,
+      8
+    ],
+    "target": 2,
+    "solution_expr": "(((2 + 19) - 11) - 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      23,
+      14
+    ],
+    "target": 1,
+    "solution_expr": "((23 - 8) - 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      15,
+      18,
+      21
+    ],
+    "target": 343,
+    "solution_expr": "(((18 * 21) - 15) - 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      23,
+      2,
+      7
+    ],
+    "target": 15,
+    "solution_expr": "(((7 * 2) + 23) - 22)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      3,
+      9,
+      12
+    ],
+    "target": 2,
+    "solution_expr": "(((2 - 3) + 12) - 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      7,
+      17
+    ],
+    "target": 238,
+    "solution_expr": "((2 * 7) * 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      14,
+      22,
+      5
+    ],
+    "target": 515,
+    "solution_expr": "(((22 * 23) + 14) - 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      16,
+      24
+    ],
+    "target": 200,
+    "solution_expr": "((11 * 16) + 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      6,
+      23
+    ],
+    "target": 48,
+    "solution_expr": "((23 + 19) + 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      24,
+      12,
+      6
+    ],
+    "target": 108,
+    "solution_expr": "(((9 * 24) * 6) / 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      9,
+      12
+    ],
+    "target": 105,
+    "solution_expr": "((12 * 8) + 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      16,
+      9
+    ],
+    "target": 36,
+    "solution_expr": "((9 * 16) / 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      19,
+      17
+    ],
+    "target": 46,
+    "solution_expr": "((19 + 10) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      3,
+      23,
+      7
+    ],
+    "target": 28,
+    "solution_expr": "(((23 + 7) + 1) - 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      5,
+      8
+    ],
+    "target": 32,
+    "solution_expr": "((5 - 1) * 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      12,
+      14
+    ],
+    "target": 286,
+    "solution_expr": "((25 * 12) - 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      7,
+      6,
+      23
+    ],
+    "target": 281,
+    "solution_expr": "(((7 + 6) * 23) - 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      23,
+      4,
+      5
+    ],
+    "target": 10,
+    "solution_expr": "(((4 + 24) - 23) + 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      4,
+      5,
+      13
+    ],
+    "target": 37,
+    "solution_expr": "(((25 - 5) + 13) + 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      14,
+      8,
+      1
+    ],
+    "target": 26,
+    "solution_expr": "(((1 * 4) + 14) + 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      10,
+      16
+    ],
+    "target": 31,
+    "solution_expr": "((10 + 5) + 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      20,
+      22
+    ],
+    "target": 52,
+    "solution_expr": "((20 + 22) + 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      2,
+      21,
+      1
+    ],
+    "target": 42,
+    "solution_expr": "(((2 + 1) + 21) + 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      10,
+      7
+    ],
+    "target": 143,
+    "solution_expr": "((19 * 7) + 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      1,
+      12,
+      7
+    ],
+    "target": 56,
+    "solution_expr": "(((12 - 1) * 7) - 21)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      24,
+      21
+    ],
+    "target": 7,
+    "solution_expr": "((4 + 24) - 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      19,
+      1
+    ],
+    "target": 342,
+    "solution_expr": "((18 * 1) * 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      12,
+      5
+    ],
+    "target": 144,
+    "solution_expr": "((7 + 5) * 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      2,
+      5
+    ],
+    "target": 7,
+    "solution_expr": "((5 + 2) / 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      3,
+      19
+    ],
+    "target": 7,
+    "solution_expr": "((3 + 23) - 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      25,
+      14
+    ],
+    "target": 333,
+    "solution_expr": "((14 * 22) + 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      14,
+      8,
+      4
+    ],
+    "target": 55,
+    "solution_expr": "(((14 * 4) + 8) - 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      12,
+      17
+    ],
+    "target": 468,
+    "solution_expr": "((22 + 17) * 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      15,
+      23,
+      14
+    ],
+    "target": 30,
+    "solution_expr": "(((14 - 23) + 15) + 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      21,
+      8,
+      16
+    ],
+    "target": 5,
+    "solution_expr": "(((18 + 16) - 21) - 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      11,
+      6,
+      12
+    ],
+    "target": 30,
+    "solution_expr": "(((12 + 6) + 1) + 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      21,
+      15
+    ],
+    "target": 777,
+    "solution_expr": "((15 + 22) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      12,
+      11
+    ],
+    "target": 22,
+    "solution_expr": "((23 + 11) - 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      9,
+      5
+    ],
+    "target": 34,
+    "solution_expr": "((5 + 9) + 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      22,
+      13,
+      23
+    ],
+    "target": 6,
+    "solution_expr": "(((20 + 22) - 13) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      13,
+      11,
+      7
+    ],
+    "target": 130,
+    "solution_expr": "(((11 + 6) - 7) * 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      17,
+      14
+    ],
+    "target": 53,
+    "solution_expr": "((17 + 14) + 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      18,
+      6,
+      16
+    ],
+    "target": 14,
+    "solution_expr": "(((22 + 16) - 6) - 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      9,
+      1,
+      10
+    ],
+    "target": 12,
+    "solution_expr": "(((10 - 6) + 9) - 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      25,
+      23,
+      8
+    ],
+    "target": 313,
+    "solution_expr": "(((23 + 13) * 8) + 25)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      18,
+      8,
+      6
+    ],
+    "target": 82,
+    "solution_expr": "(((18 - 7) * 8) - 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      13,
+      21,
+      2
+    ],
+    "target": 94,
+    "solution_expr": "(((5 * 21) + 2) - 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      12,
+      21
+    ],
+    "target": 46,
+    "solution_expr": "((13 + 21) + 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      15,
+      19,
+      4
+    ],
+    "target": 950,
+    "solution_expr": "(((15 + 19) + 4) * 25)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      5,
+      11,
+      4
+    ],
+    "target": 3,
+    "solution_expr": "(((11 - 5) * 4) - 21)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      22,
+      25
+    ],
+    "target": 54,
+    "solution_expr": "((25 - 22) * 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      11,
+      13
+    ],
+    "target": 19,
+    "solution_expr": "((11 - 13) + 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      1,
+      20
+    ],
+    "target": 240,
+    "solution_expr": "((1 + 11) * 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      24,
+      5
+    ],
+    "target": 185,
+    "solution_expr": "((13 + 24) * 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      11
+    ],
+    "target": 12,
+    "solution_expr": "((11 + 7) - 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      11,
+      22,
+      17
+    ],
+    "target": 200,
+    "solution_expr": "(((11 * 17) + 22) - 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      5,
+      10
+    ],
+    "target": 22,
+    "solution_expr": "((10 + 5) + 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      4,
+      6
+    ],
+    "target": 384,
+    "solution_expr": "((6 * 4) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      19,
+      2
+    ],
+    "target": 9,
+    "solution_expr": "((19 - 2) - 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      16,
+      18,
+      5
+    ],
+    "target": 7,
+    "solution_expr": "(((18 * 1) + 5) - 16)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      23,
+      2,
+      21
+    ],
+    "target": 110,
+    "solution_expr": "(((23 + 21) / 2) * 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      3,
+      15
+    ],
+    "target": 9,
+    "solution_expr": "((3 - 15) + 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      12,
+      21,
+      11
+    ],
+    "target": 452,
+    "solution_expr": "(((12 + 9) * 21) + 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      16,
+      8,
+      23
+    ],
+    "target": 46,
+    "solution_expr": "(((15 - 8) + 16) + 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      8,
+      25
+    ],
+    "target": 144,
+    "solution_expr": "((25 - 7) * 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      8,
+      17,
+      24
+    ],
+    "target": 14,
+    "solution_expr": "(((8 - 17) - 1) + 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      3,
+      9,
+      7
+    ],
+    "target": 63,
+    "solution_expr": "(((6 * 3) - 9) * 7)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      17,
+      14
+    ],
+    "target": 20,
+    "solution_expr": "((23 + 14) - 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      6,
+      20,
+      1
+    ],
+    "target": 171,
+    "solution_expr": "(((6 * 25) + 20) + 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      1,
+      13,
+      8
+    ],
+    "target": 31,
+    "solution_expr": "(((13 + 1) + 25) - 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      10,
+      23
+    ],
+    "target": 230,
+    "solution_expr": "((10 / 1) * 23)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      25,
+      14
+    ],
+    "target": 19,
+    "solution_expr": "((25 - 20) + 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      15,
+      2
+    ],
+    "target": 135,
+    "solution_expr": "((2 + 7) * 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      4,
+      24
+    ],
+    "target": 188,
+    "solution_expr": "((23 + 24) * 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      15,
+      10
+    ],
+    "target": 5,
+    "solution_expr": "(((7 - 6) * 15) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      17,
+      2,
+      6,
+      1
+    ],
+    "target": 24,
+    "solution_expr": "(((2 - 1) + 17) + 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      21,
+      3
+    ],
+    "target": 6,
+    "solution_expr": "((3 - 21) + 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      11,
+      22,
+      1
+    ],
+    "target": 816,
+    "solution_expr": "(((11 + 1) + 22) * 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      9,
+      15
+    ],
+    "target": 138,
+    "solution_expr": "((15 - 9) * 23)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      23,
+      22,
+      15
+    ],
+    "target": 39,
+    "solution_expr": "(((22 + 9) + 23) - 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      15,
+      9
+    ],
+    "target": 30,
+    "solution_expr": "((15 + 6) + 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      4,
+      5
+    ],
+    "target": 460,
+    "solution_expr": "((23 * 5) * 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      15,
+      20
+    ],
+    "target": 180,
+    "solution_expr": "((24 - 15) * 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      10,
+      19
+    ],
+    "target": 145,
+    "solution_expr": "((19 + 10) * 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      4,
+      24,
+      20
+    ],
+    "target": 1000,
+    "solution_expr": "(((24 - 4) + 20) * 25)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      12,
+      21,
+      18,
+      11
+    ],
+    "target": 401,
+    "solution_expr": "(((18 * 21) + 12) + 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      7,
+      16
+    ],
+    "target": 207,
+    "solution_expr": "((16 + 7) * 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      4,
+      21
+    ],
+    "target": 546,
+    "solution_expr": "((22 + 4) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      12,
+      11,
+      1
+    ],
+    "target": 12,
+    "solution_expr": "(((11 * 1) - 12) + 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      17,
+      4,
+      24
+    ],
+    "target": 46,
+    "solution_expr": "(((17 + 24) - 4) + 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      10,
+      15,
+      8
+    ],
+    "target": 273,
+    "solution_expr": "(((25 * 10) + 8) + 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      11,
+      5
+    ],
+    "target": 165,
+    "solution_expr": "((3 * 11) * 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      3,
+      10,
+      15
+    ],
+    "target": 390,
+    "solution_expr": "(((15 * 10) - 20) * 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      16,
+      20,
+      23
+    ],
+    "target": 491,
+    "solution_expr": "(((16 + 20) * 13) + 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      5,
+      17
+    ],
+    "target": 42,
+    "solution_expr": "((17 + 20) + 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      9,
+      2
+    ],
+    "target": 33,
+    "solution_expr": "((2 * 12) + 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      5,
+      15
+    ],
+    "target": 25,
+    "solution_expr": "((15 / 5) + 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      8,
+      1
+    ],
+    "target": 2,
+    "solution_expr": "((16 * 1) / 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      22,
+      5
+    ],
+    "target": 83,
+    "solution_expr": "((5 * 21) - 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      23,
+      6,
+      2
+    ],
+    "target": 554,
+    "solution_expr": "(((6 * 4) * 23) + 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      21,
+      6,
+      8
+    ],
+    "target": 34,
+    "solution_expr": "(((21 + 8) - 1) + 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      19,
+      13
+    ],
+    "target": 110,
+    "solution_expr": "((13 * 7) + 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      14,
+      15
+    ],
+    "target": 36,
+    "solution_expr": "((14 + 15) + 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      4,
+      14,
+      24
+    ],
+    "target": 11,
+    "solution_expr": "(((14 + 25) - 4) - 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      23,
+      13,
+      6
+    ],
+    "target": 500,
+    "solution_expr": "(((9 + 13) * 23) - 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      20,
+      10,
+      4
+    ],
+    "target": 132,
+    "solution_expr": "(((3 + 10) + 20) * 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      17,
+      10,
+      11
+    ],
+    "target": 197,
+    "solution_expr": "((17 * 11) + 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      20,
+      6
+    ],
+    "target": 180,
+    "solution_expr": "((15 - 6) * 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      22,
+      14,
+      5
+    ],
+    "target": 96,
+    "solution_expr": "(((10 - 5) * 22) - 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      2,
+      4,
+      1
+    ],
+    "target": 120,
+    "solution_expr": "(((15 * 1) * 4) * 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      20,
+      25,
+      13
+    ],
+    "target": 415,
+    "solution_expr": "(((20 + 10) * 13) + 25)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      22,
+      24
+    ],
+    "target": 176,
+    "solution_expr": "((24 - 16) * 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      10,
+      3
+    ],
+    "target": 26,
+    "solution_expr": "((19 - 3) + 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      23,
+      25
+    ],
+    "target": 200,
+    "solution_expr": "((23 - 15) * 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      20,
+      18
+    ],
+    "target": 22,
+    "solution_expr": "((20 - 18) * 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      2,
+      16
+    ],
+    "target": 8,
+    "solution_expr": "((2 + 16) - 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      8,
+      23
+    ],
+    "target": 26,
+    "solution_expr": "((23 - 8) + 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      6,
+      11,
+      7
+    ],
+    "target": 1,
+    "solution_expr": "(((11 + 6) + 7) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      4,
+      19
+    ],
+    "target": 120,
+    "solution_expr": "((19 - 4) * 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      24,
+      18,
+      22
+    ],
+    "target": 820,
+    "solution_expr": "(((18 + 24) * 19) + 22)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      12,
+      17,
+      13
+    ],
+    "target": 42,
+    "solution_expr": "(((13 - 12) + 24) + 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      11,
+      5
+    ],
+    "target": 54,
+    "solution_expr": "((5 * 11) - 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      18,
+      11
+    ],
+    "target": 73,
+    "solution_expr": "((11 * 5) + 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      22,
+      8
+    ],
+    "target": 480,
+    "solution_expr": "((22 + 8) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      24,
+      10,
+      2
+    ],
+    "target": 26,
+    "solution_expr": "(((24 - 6) + 10) - 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      3,
+      15
+    ],
+    "target": 5,
+    "solution_expr": "((15 * 3) / 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      22,
+      11
+    ],
+    "target": 176,
+    "solution_expr": "((18 * 11) - 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      22,
+      9
+    ],
+    "target": 14,
+    "solution_expr": "((9 + 22) - 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      3,
+      18
+    ],
+    "target": 84,
+    "solution_expr": "((18 + 3) * 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      12,
+      2,
+      15
+    ],
+    "target": 205,
+    "solution_expr": "(((15 * 13) - 2) + 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      6,
+      5,
+      24
+    ],
+    "target": 36,
+    "solution_expr": "(((5 * 2) * 6) - 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      14,
+      5
+    ],
+    "target": 6,
+    "solution_expr": "((14 + 16) / 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      19,
+      6
+    ],
+    "target": 27,
+    "solution_expr": "((14 + 19) - 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      4,
+      19
+    ],
+    "target": 118,
+    "solution_expr": "((19 * 6) + 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      11,
+      1
+    ],
+    "target": 60,
+    "solution_expr": "((11 + 1) * 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      18,
+      21,
+      5
+    ],
+    "target": 278,
+    "solution_expr": "(((18 * 14) + 5) + 21)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      6,
+      23,
+      2
+    ],
+    "target": 540,
+    "solution_expr": "(((22 + 23) * 6) * 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      17,
+      19,
+      25,
+      18
+    ],
+    "target": 163,
+    "solution_expr": "(((25 - 17) * 18) + 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      8,
+      17
+    ],
+    "target": 158,
+    "solution_expr": "((17 * 8) + 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      9,
+      17
+    ],
+    "target": 624,
+    "solution_expr": "((9 + 17) * 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      15,
+      4,
+      16
+    ],
+    "target": 40,
+    "solution_expr": "(((4 * 16) - 9) - 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      17,
+      23,
+      2
+    ],
+    "target": 782,
+    "solution_expr": "(((17 * 1) * 23) * 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      7,
+      3
+    ],
+    "target": 336,
+    "solution_expr": "((7 * 3) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      7,
+      24
+    ],
+    "target": 2,
+    "solution_expr": "((24 - 10) / 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      18,
+      6
+    ],
+    "target": 43,
+    "solution_expr": "((19 + 6) + 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      15,
+      8,
+      14
+    ],
+    "target": 200,
+    "solution_expr": "(((14 * 15) - 18) + 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      12,
+      6,
+      20,
+      1
+    ],
+    "target": 192,
+    "solution_expr": "(((12 + 20) / 1) * 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      13,
+      5,
+      6
+    ],
+    "target": 613,
+    "solution_expr": "(((5 * 20) * 6) + 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      13,
+      24
+    ],
+    "target": 24,
+    "solution_expr": "((14 - 13) * 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      6,
+      21,
+      2
+    ],
+    "target": 1,
+    "solution_expr": "(((7 * 6) / 21) / 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      25,
+      4
+    ],
+    "target": 39,
+    "solution_expr": "((25 + 10) + 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      3,
+      12,
+      18
+    ],
+    "target": 23,
+    "solution_expr": "(((18 + 20) - 3) - 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      7,
+      9,
+      17
+    ],
+    "target": 537,
+    "solution_expr": "(((9 + 23) * 17) - 7)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      22,
+      21
+    ],
+    "target": 331,
+    "solution_expr": "((22 * 16) - 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      21,
+      8
+    ],
+    "target": 56,
+    "solution_expr": "((21 / 3) * 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      17,
+      9
+    ],
+    "target": 8,
+    "solution_expr": "((17 / 1) - 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      16,
+      2
+    ],
+    "target": 17,
+    "solution_expr": "((16 + 2) - 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      23,
+      19
+    ],
+    "target": 11,
+    "solution_expr": "((19 - 23) + 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      19,
+      11
+    ],
+    "target": 297,
+    "solution_expr": "((8 + 19) * 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      16,
+      8
+    ],
+    "target": 112,
+    "solution_expr": "((8 - 1) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      2,
+      7
+    ],
+    "target": 336,
+    "solution_expr": "((7 * 24) * 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      14,
+      5,
+      9
+    ],
+    "target": 79,
+    "solution_expr": "(((9 - 5) * 14) + 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      19,
+      20,
+      6
+    ],
+    "target": 253,
+    "solution_expr": "(((19 - 6) * 21) - 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      5,
+      6
+    ],
+    "target": 29,
+    "solution_expr": "((5 * 6) - 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      6,
+      20,
+      18
+    ],
+    "target": 9,
+    "solution_expr": "(((17 - 6) - 20) + 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      4,
+      1
+    ],
+    "target": 7,
+    "solution_expr": "((4 + 3) * 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      9,
+      16
+    ],
+    "target": 144,
+    "solution_expr": "((9 * 1) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      2,
+      6
+    ],
+    "target": 16,
+    "solution_expr": "((2 - 6) + 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      15,
+      12
+    ],
+    "target": 285,
+    "solution_expr": "((25 * 12) - 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      3,
+      7,
+      11
+    ],
+    "target": 8,
+    "solution_expr": "(((3 + 11) - 7) + 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      12,
+      10
+    ],
+    "target": 70,
+    "solution_expr": "((19 - 12) * 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      4,
+      22
+    ],
+    "target": 31,
+    "solution_expr": "((13 + 22) - 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      20,
+      24
+    ],
+    "target": 88,
+    "solution_expr": "((24 + 20) * 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      13,
+      25,
+      16
+    ],
+    "target": 112,
+    "solution_expr": "(((13 + 16) * 3) + 25)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      2,
+      15
+    ],
+    "target": 26,
+    "solution_expr": "((9 + 2) + 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      22,
+      24,
+      14
+    ],
+    "target": 62,
+    "solution_expr": "(((2 + 24) + 14) + 22)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      6,
+      5
+    ],
+    "target": 48,
+    "solution_expr": "((3 + 5) * 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      17,
+      15
+    ],
+    "target": 37,
+    "solution_expr": "((15 + 5) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      20,
+      8,
+      7
+    ],
+    "target": 124,
+    "solution_expr": "(((7 + 11) * 8) - 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      18,
+      13
+    ],
+    "target": 209,
+    "solution_expr": "((18 * 13) - 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      22,
+      15,
+      1
+    ],
+    "target": 144,
+    "solution_expr": "(((1 + 22) - 15) * 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      16,
+      17
+    ],
+    "target": 95,
+    "solution_expr": "((16 * 7) - 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      16,
+      7,
+      24
+    ],
+    "target": 792,
+    "solution_expr": "(((16 + 7) + 10) * 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      22,
+      10,
+      19
+    ],
+    "target": 421,
+    "solution_expr": "(((22 * 19) - 7) + 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      24,
+      6,
+      15
+    ],
+    "target": 105,
+    "solution_expr": "(((9 * 15) - 24) - 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      14,
+      19
+    ],
+    "target": 1,
+    "solution_expr": "((19 - 5) / 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      15,
+      11,
+      19
+    ],
+    "target": 189,
+    "solution_expr": "(((15 * 11) + 19) + 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      12,
+      18,
+      2
+    ],
+    "target": 24,
+    "solution_expr": "((12 / 2) + 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      9,
+      2
+    ],
+    "target": 27,
+    "solution_expr": "((2 + 9) + 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      19,
+      24
+    ],
+    "target": 171,
+    "solution_expr": "((24 - 15) * 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      6,
+      20,
+      15
+    ],
+    "target": 222,
+    "solution_expr": "(((2 + 20) + 15) * 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      18,
+      25,
+      5
+    ],
+    "target": 14,
+    "solution_expr": "(((25 - 18) - 5) * 7)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      12,
+      14
+    ],
+    "target": 448,
+    "solution_expr": "((12 + 20) * 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      14,
+      21
+    ],
+    "target": 119,
+    "solution_expr": "((10 * 14) - 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      10,
+      13
+    ],
+    "target": 197,
+    "solution_expr": "((21 * 10) - 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      12,
+      10
+    ],
+    "target": 38,
+    "solution_expr": "((16 + 10) + 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      12,
+      24,
+      22
+    ],
+    "target": 126,
+    "solution_expr": "(((12 + 22) * 3) + 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      19,
+      14,
+      4
+    ],
+    "target": 23,
+    "solution_expr": "(((7 * 4) - 19) + 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      10,
+      17,
+      21
+    ],
+    "target": 130,
+    "solution_expr": "(((17 * 7) + 21) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      14,
+      24
+    ],
+    "target": 315,
+    "solution_expr": "((14 * 24) - 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      7,
+      13,
+      14,
+      18
+    ],
+    "target": 63,
+    "solution_expr": "(((14 - 18) + 13) * 7)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      18,
+      16
+    ],
+    "target": 640,
+    "solution_expr": "((18 + 22) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      1,
+      11,
+      17
+    ],
+    "target": 29,
+    "solution_expr": "((11 + 17) + 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      21,
+      6,
+      10
+    ],
+    "target": 40,
+    "solution_expr": "(((21 - 11) - 6) * 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      25,
+      10
+    ],
+    "target": 237,
+    "solution_expr": "((10 * 25) - 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      20,
+      12,
+      15
+    ],
+    "target": 820,
+    "solution_expr": "(((15 + 12) + 14) * 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      16,
+      21,
+      13
+    ],
+    "target": 32,
+    "solution_expr": "(((14 + 13) - 16) + 21)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      19,
+      20,
+      4
+    ],
+    "target": 303,
+    "solution_expr": "(((19 - 4) * 20) + 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      20,
+      24
+    ],
+    "target": 780,
+    "solution_expr": "((15 + 24) * 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      24,
+      23,
+      25
+    ],
+    "target": 768,
+    "solution_expr": "(((23 - 16) + 25) * 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      7,
+      9,
+      14,
+      10
+    ],
+    "target": 93,
+    "solution_expr": "(((7 * 10) + 14) + 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      17,
+      16
+    ],
+    "target": 31,
+    "solution_expr": "((16 * 3) - 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      23,
+      7
+    ],
+    "target": 141,
+    "solution_expr": "((7 * 23) - 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      14,
+      5
+    ],
+    "target": 910,
+    "solution_expr": "((5 * 14) * 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      25,
+      17
+    ],
+    "target": 382,
+    "solution_expr": "((17 * 21) + 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      4,
+      16,
+      21
+    ],
+    "target": 22,
+    "solution_expr": "(((21 + 13) - 16) + 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      10,
+      17
+    ],
+    "target": 670,
+    "solution_expr": "(((8 * 17) * 5) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      1,
+      22,
+      10
+    ],
+    "target": 35,
+    "solution_expr": "(((2 * 22) - 10) + 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      21,
+      23,
+      11
+    ],
+    "target": 312,
+    "solution_expr": "(((23 * 14) - 21) + 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      14,
+      18,
+      17
+    ],
+    "target": 40,
+    "solution_expr": "(((14 + 18) + 17) - 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      17,
+      18
+    ],
+    "target": 10,
+    "solution_expr": "((9 - 17) + 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      11,
+      12
+    ],
+    "target": 19,
+    "solution_expr": "((11 + 12) - 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      9,
+      14
+    ],
+    "target": 42,
+    "solution_expr": "((9 + 14) + 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      18,
+      24
+    ],
+    "target": 546,
+    "solution_expr": "((24 * 22) + 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      14,
+      11
+    ],
+    "target": 44,
+    "solution_expr": "((19 + 14) + 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      9,
+      2
+    ],
+    "target": 24,
+    "solution_expr": "((2 * 9) + 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      8,
+      17
+    ],
+    "target": 49,
+    "solution_expr": "((8 * 4) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      9,
+      11,
+      19
+    ],
+    "target": 39,
+    "solution_expr": "((9 + 19) + 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      15,
+      1,
+      7
+    ],
+    "target": 163,
+    "solution_expr": "(((7 * 21) + 1) + 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      17,
+      25,
+      12,
+      2
+    ],
+    "target": 838,
+    "solution_expr": "(((2 * 25) * 17) - 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      19,
+      8,
+      15
+    ],
+    "target": 80,
+    "solution_expr": "(((19 - 24) + 15) * 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      19,
+      20,
+      9
+    ],
+    "target": 551,
+    "solution_expr": "(((18 + 20) - 9) * 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      3,
+      12
+    ],
+    "target": 288,
+    "solution_expr": "((3 + 21) * 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      20
+    ],
+    "target": 12,
+    "solution_expr": "((20 / 5) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      17,
+      13,
+      24
+    ],
+    "target": 205,
+    "solution_expr": "(((25 - 17) * 24) + 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      21,
+      18
+    ],
+    "target": 93,
+    "solution_expr": "((4 * 18) + 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      19,
+      1,
+      5
+    ],
+    "target": 74,
+    "solution_expr": "(((11 * 5) + 19) / 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      10,
+      23,
+      1
+    ],
+    "target": 48,
+    "solution_expr": "(((15 + 23) + 10) / 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      18,
+      10,
+      1
+    ],
+    "target": 9,
+    "solution_expr": "(((1 * 10) - 19) + 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      16,
+      9,
+      17
+    ],
+    "target": 188,
+    "solution_expr": "(((16 + 3) * 9) + 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      9,
+      10
+    ],
+    "target": 209,
+    "solution_expr": "((10 + 9) * 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      6,
+      12
+    ],
+    "target": 336,
+    "solution_expr": "((22 + 6) * 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      10,
+      19,
+      24
+    ],
+    "target": 158,
+    "solution_expr": "(((10 * 19) - 8) - 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      4,
+      17
+    ],
+    "target": 22,
+    "solution_expr": "((9 - 4) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      8,
+      1,
+      18
+    ],
+    "target": 364,
+    "solution_expr": "(((1 * 8) + 18) * 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      7,
+      20,
+      13
+    ],
+    "target": 34,
+    "solution_expr": "(((20 + 7) - 6) + 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      21,
+      22
+    ],
+    "target": 84,
+    "solution_expr": "((22 - 18) * 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      22,
+      14
+    ],
+    "target": 328,
+    "solution_expr": "((14 * 25) - 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      7,
+      12
+    ],
+    "target": 1,
+    "solution_expr": "((12 + 7) / 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      7,
+      8
+    ],
+    "target": 185,
+    "solution_expr": "((24 * 8) - 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      10,
+      17,
+      23,
+      1
+    ],
+    "target": 51,
+    "solution_expr": "(((1 + 17) + 10) + 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      2,
+      8
+    ],
+    "target": 56,
+    "solution_expr": "((9 - 2) * 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      11,
+      17,
+      10
+    ],
+    "target": 738,
+    "solution_expr": "(((17 * 11) * 4) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      21,
+      12
+    ],
+    "target": 360,
+    "solution_expr": "((9 + 21) * 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      4,
+      19,
+      21
+    ],
+    "target": 44,
+    "solution_expr": "((4 + 19) + 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      20,
+      23
+    ],
+    "target": 29,
+    "solution_expr": "((23 + 20) - 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      13,
+      17,
+      3
+    ],
+    "target": 45,
+    "solution_expr": "(((3 * 17) + 13) - 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      25,
+      3,
+      16
+    ],
+    "target": 475,
+    "solution_expr": "((3 + 16) * 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      20,
+      25
+    ],
+    "target": 600,
+    "solution_expr": "((25 + 5) * 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      9,
+      8
+    ],
+    "target": 32,
+    "solution_expr": "((9 + 15) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      23,
+      11,
+      18
+    ],
+    "target": 283,
+    "solution_expr": "(((11 + 6) * 18) - 23)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      24,
+      6,
+      25
+    ],
+    "target": 53,
+    "solution_expr": "(((24 + 10) + 25) - 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      2,
+      11
+    ],
+    "target": 174,
+    "solution_expr": "((11 * 16) - 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      14,
+      16,
+      13
+    ],
+    "target": 192,
+    "solution_expr": "(((14 - 13) * 16) * 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      22,
+      15
+    ],
+    "target": 15,
+    "solution_expr": "((22 - 15) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      10,
+      1,
+      20
+    ],
+    "target": 310,
+    "solution_expr": "(((16 / 1) * 20) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      1,
+      10
+    ],
+    "target": 18,
+    "solution_expr": "((9 + 10) - 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      25,
+      6,
+      8
+    ],
+    "target": 142,
+    "solution_expr": "(((6 * 25) - 16) + 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      23,
+      17
+    ],
+    "target": 6,
+    "solution_expr": "((23 / 1) - 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      18,
+      5
+    ],
+    "target": 6,
+    "solution_expr": "((19 - 18) + 5)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      15,
+      2,
+      7
+    ],
+    "target": 111,
+    "solution_expr": "(((7 + 2) * 14) - 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      9,
+      5,
+      10
+    ],
+    "target": 35,
+    "solution_expr": "(((5 + 11) + 9) + 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      20,
+      7
+    ],
+    "target": 17,
+    "solution_expr": "((20 + 7) - 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      12,
+      8
+    ],
+    "target": 108,
+    "solution_expr": "((17 - 8) * 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      16,
+      15,
+      5
+    ],
+    "target": 7,
+    "solution_expr": "(((16 + 15) - 5) - 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      17,
+      2,
+      18,
+      22
+    ],
+    "target": 59,
+    "solution_expr": "(((17 + 22) + 18) + 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      11,
+      24
+    ],
+    "target": 140,
+    "solution_expr": "((24 + 11) * 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      9,
+      4,
+      14
+    ],
+    "target": 10,
+    "solution_expr": "(((9 + 14) + 4) - 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      18,
+      8
+    ],
+    "target": 378,
+    "solution_expr": "((8 + 13) * 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      21,
+      7
+    ],
+    "target": 36,
+    "solution_expr": "((22 - 7) + 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      20,
+      19
+    ],
+    "target": 405,
+    "solution_expr": "((19 * 20) + 25)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      23,
+      5,
+      12,
+      22
+    ],
+    "target": 28,
+    "solution_expr": "(((22 - 5) + 23) - 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      12,
+      19,
+      16,
+      24
+    ],
+    "target": 47,
+    "solution_expr": "(((24 + 19) - 12) + 16)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      5,
+      7,
+      22
+    ],
+    "target": 189,
+    "solution_expr": "((22 + 5) * 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      6,
+      14,
+      12
+    ],
+    "target": 224,
+    "solution_expr": "(((8 * 12) * 14) / 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      12,
+      13,
+      14
+    ],
+    "target": 320,
+    "solution_expr": "(((9 + 13) * 14) + 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      13,
+      15
+    ],
+    "target": 9,
+    "solution_expr": "((15 - 19) + 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      1,
+      7,
+      16
+    ],
+    "target": 41,
+    "solution_expr": "(((1 * 18) + 7) + 16)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      6,
+      13
+    ],
+    "target": 418,
+    "solution_expr": "((13 + 6) * 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      13,
+      17,
+      5
+    ],
+    "target": 2,
+    "solution_expr": "(((5 - 17) + 13) * 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      1,
+      24
+    ],
+    "target": 48,
+    "solution_expr": "((23 + 24) + 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      15,
+      1,
+      14
+    ],
+    "target": 230,
+    "solution_expr": "(((15 * 14) + 21) - 1)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      18,
+      9,
+      2
+    ],
+    "target": 324,
+    "solution_expr": "((2 * 18) * 9)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      15,
+      3,
+      2,
+      14
+    ],
+    "target": 85,
+    "solution_expr": "(((3 + 2) * 14) + 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      13,
+      1,
+      20,
+      10
+    ],
+    "target": 249,
+    "solution_expr": "(((20 * 13) - 1) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      22,
+      24,
+      1
+    ],
+    "target": 529,
+    "solution_expr": "((22 * 24) + 1)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      4,
+      17,
+      20
+    ],
+    "target": 55,
+    "solution_expr": "(((4 * 13) - 17) + 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      20,
+      24
+    ],
+    "target": 960,
+    "solution_expr": "((2 * 20) * 24)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      2,
+      22,
+      1
+    ],
+    "target": 37,
+    "solution_expr": "(((18 - 1) - 2) + 22)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      6,
+      17,
+      2
+    ],
+    "target": 68,
+    "solution_expr": "(((2 * 6) / 3) * 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      20,
+      15,
+      18
+    ],
+    "target": 23,
+    "solution_expr": "((20 + 18) - 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      5,
+      6,
+      19
+    ],
+    "target": 105,
+    "solution_expr": "(((6 + 19) * 5) - 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      21,
+      12,
+      2
+    ],
+    "target": 206,
+    "solution_expr": "(((12 - 2) * 21) - 4)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      19,
+      6,
+      3
+    ],
+    "target": 19,
+    "solution_expr": "(((3 + 19) + 6) - 9)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      10,
+      22,
+      1
+    ],
+    "target": 18,
+    "solution_expr": "(((10 + 22) + 1) - 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      8,
+      19,
+      12
+    ],
+    "target": 37,
+    "solution_expr": "(((19 + 12) - 2) + 8)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      21,
+      9,
+      19,
+      10
+    ],
+    "target": 39,
+    "solution_expr": "(((21 * 19) - 9) / 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      23,
+      9,
+      16
+    ],
+    "target": 2,
+    "solution_expr": "((16 + 9) - 23)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      11,
+      15,
+      19
+    ],
+    "target": 45,
+    "solution_expr": "((15 + 19) + 11)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      20,
+      17,
+      9
+    ],
+    "target": 46,
+    "solution_expr": "((9 + 20) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      14,
+      6,
+      12
+    ],
+    "target": 32,
+    "solution_expr": "((14 + 6) + 12)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      10,
+      18
+    ],
+    "target": 14,
+    "solution_expr": "((18 - 10) + 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      19,
+      5
+    ],
+    "target": 37,
+    "solution_expr": "((13 + 5) + 19)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      13,
+      7,
+      15
+    ],
+    "target": 5,
+    "solution_expr": "((7 - 15) + 13)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      5,
+      19,
+      8
+    ],
+    "target": 125,
+    "solution_expr": "(((8 * 19) - 22) - 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      8,
+      5,
+      15
+    ],
+    "target": 83,
+    "solution_expr": "((5 * 15) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      10,
+      9,
+      3
+    ],
+    "target": 254,
+    "solution_expr": "(((9 * 10) * 3) - 16)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      12,
+      6
+    ],
+    "target": 252,
+    "solution_expr": "((12 + 6) * 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      24,
+      13,
+      6,
+      3
+    ],
+    "target": 154,
+    "solution_expr": "(((24 * 6) - 3) + 13)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      16,
+      14,
+      12
+    ],
+    "target": 32,
+    "solution_expr": "((14 - 12) * 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      18,
+      11,
+      15
+    ],
+    "target": 468,
+    "solution_expr": "((11 + 15) * 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      22,
+      20
+    ],
+    "target": 21,
+    "solution_expr": "((19 + 22) - 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      23,
+      21
+    ],
+    "target": 229,
+    "solution_expr": "((12 * 21) - 23)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      20,
+      9
+    ],
+    "target": 45,
+    "solution_expr": "((9 + 16) + 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      25,
+      12,
+      18
+    ],
+    "target": 55,
+    "solution_expr": "((25 + 12) + 18)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      3,
+      18,
+      5
+    ],
+    "target": 546,
+    "solution_expr": "(((5 + 18) + 3) * 21)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      24,
+      9,
+      7,
+      12
+    ],
+    "target": 99,
+    "solution_expr": "(((9 * 7) + 12) + 24)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      3,
+      16,
+      2,
+      5
+    ],
+    "target": 16,
+    "solution_expr": "(((2 + 16) - 5) + 3)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      1,
+      2,
+      22
+    ],
+    "target": 317,
+    "solution_expr": "(((22 - 1) * 15) + 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      17,
+      6,
+      8
+    ],
+    "target": 249,
+    "solution_expr": "(((8 + 6) * 17) + 11)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      19,
+      14,
+      7
+    ],
+    "target": 12,
+    "solution_expr": "((19 - 14) + 7)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      17,
+      22,
+      7
+    ],
+    "target": 255,
+    "solution_expr": "((22 - 7) * 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      8,
+      20
+    ],
+    "target": 9,
+    "solution_expr": "((8 + 21) - 20)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      7,
+      23,
+      15
+    ],
+    "target": 57,
+    "solution_expr": "(((12 + 23) + 7) + 15)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      15,
+      18,
+      10
+    ],
+    "target": 12,
+    "solution_expr": "((10 * 18) / 15)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      2,
+      12,
+      10
+    ],
+    "target": 134,
+    "solution_expr": "(((2 * 6) * 12) - 10)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      4,
+      18,
+      7,
+      6
+    ],
+    "target": 174,
+    "solution_expr": "(((7 + 4) + 18) * 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      2,
+      19
+    ],
+    "target": 28,
+    "solution_expr": "((11 + 19) - 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      12,
+      15,
+      16,
+      8
+    ],
+    "target": 276,
+    "solution_expr": "(((16 - 8) + 15) * 12)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      16,
+      25
+    ],
+    "target": 334,
+    "solution_expr": "((14 * 25) - 16)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      6,
+      24
+    ],
+    "target": 18,
+    "solution_expr": "((24 - 21) * 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      5,
+      8,
+      4
+    ],
+    "target": 28,
+    "solution_expr": "((4 * 5) + 8)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      6,
+      18,
+      12,
+      19
+    ],
+    "target": 666,
+    "solution_expr": "(((6 + 19) + 12) * 18)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      17,
+      2
+    ],
+    "target": 25,
+    "solution_expr": "((17 + 10) - 2)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      21,
+      18,
+      11
+    ],
+    "target": 219,
+    "solution_expr": "((18 * 11) + 21)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      3,
+      19,
+      17
+    ],
+    "target": 74,
+    "solution_expr": "((3 * 19) + 17)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      2,
+      12
+    ],
+    "target": 2,
+    "solution_expr": "((2 * 12) - 22)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      16,
+      23,
+      6,
+      17
+    ],
+    "target": 132,
+    "solution_expr": "(((16 - 17) + 23) * 6)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      2,
+      14,
+      12,
+      21
+    ],
+    "target": 242,
+    "solution_expr": "(((21 - 2) * 12) + 14)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      1,
+      23,
+      4
+    ],
+    "target": 19,
+    "solution_expr": "((23 / 1) - 4)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      8,
+      14,
+      17
+    ],
+    "target": 23,
+    "solution_expr": "((17 - 8) + 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      2,
+      9,
+      6,
+      21
+    ],
+    "target": 630,
+    "solution_expr": "(((6 + 9) * 21) * 2)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      11,
+      10,
+      6
+    ],
+    "target": 170,
+    "solution_expr": "((6 + 11) * 10)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      17,
+      6,
+      5
+    ],
+    "target": 120,
+    "solution_expr": "(((22 * 6) - 17) + 5)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      5,
+      19,
+      1
+    ],
+    "target": 190,
+    "solution_expr": "(((1 + 14) - 5) * 19)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      14,
+      12,
+      16
+    ],
+    "target": 178,
+    "solution_expr": "((16 * 12) - 14)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      22,
+      15,
+      25,
+      21
+    ],
+    "target": 33,
+    "solution_expr": "(((22 - 25) + 15) + 21)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      10,
+      20,
+      4,
+      3
+    ],
+    "target": 40,
+    "solution_expr": "(((3 * 4) - 10) * 20)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      6,
+      22,
+      24
+    ],
+    "target": 52,
+    "solution_expr": "((24 + 22) + 6)",
+    "difficulty": 3
+  },
+  {
+    "numbers": [
+      19,
+      17,
+      7,
+      10
+    ],
+    "target": 19,
+    "solution_expr": "(((19 - 7) - 10) + 17)",
+    "difficulty": 4
+  },
+  {
+    "numbers": [
+      9,
+      11,
+      19,
+      7
+    ],
+    "target": 8,
+    "solution_expr": "(((7 + 11) - 19) + 9)",
+    "difficulty": 4
+  }
+]
