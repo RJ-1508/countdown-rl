@@ -7,7 +7,7 @@ SYSTEM = "You are a careful arithmetic solver"
 
 def load_model_and_tokenizer(adapter_dir=None, dtype = torch.float16):
     tok = AutoTokenizer.from_pretrained(configs.MODEL_NAME)
-    model = AutoModelForCausalLM.from_pretrained(configs.MODEL_NAME, torch_dtype = dtype).to("cuda")
+    model = AutoModelForCausalLM.from_pretrained(configs.MODEL_NAME, dtype=dtype).to("cuda")
     if adapter_dir is not None:
         model = PeftModel.from_pretrained(model, adapter_dir)
     return model, tok
