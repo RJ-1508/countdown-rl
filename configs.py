@@ -35,3 +35,6 @@ SFT_LR = 2e-4
 SFT_BATCH = 8
 GRAD_ACCUM = 2
 ADAPTER_DIR = OUT_DIR / "sft_adapter"
+
+# eval
+BOOTSTRAP_N = 1000
