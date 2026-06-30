@@ -1,5 +1,6 @@
 import random
 from collections import defaultdict
+from tqdm.auto import tqdm
 
 import configs
 import data
@@ -24,7 +25,7 @@ def evaluate(model, tok, dataset, reward_fn, **gen_kwargs):
     solved_flags = []
     by_difficulty = defaultdict(list)
     n = len(dataset)
-    for record in dataset:
+    for record in tqdm(dataset, desc="eval"):
         prompt = data.build_prompt(record["numbers"], record["target"])
         completion = generate(model, tok, prompt, **gen_kwargs)
         reward = reward_fn(prompt, completion)
